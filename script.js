@@ -7,7 +7,7 @@
 const menuData = {
   hot: [
     { name: 'Signature Espresso',    desc: 'Double shot of our house blend. Notes of dark chocolate, hazelnut & dried cherry.', price: '$4.50', badge: 'House Favourite', img: 'https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04?w=600&q=75' },
-    { name: 'Cortado', desc: 'Equal parts espresso and warm micro-foamed milk. Balanced, rich, direct.', price: '$7.00', badge: null, img: 'https://images.unsplash.com/photo-1470337458703-46ad1756a187?auto=format&fit=crop&w=600&q=80'},
+    { name: 'Cortado', desc: 'Equal parts espresso and warm micro-foamed milk. Balanced, rich, direct.', price: '$7.00', badge: null, img: 'https://images.unsplash.com/photo-1494314671902-399b18174975?auto=format&fit=crop&w=600&q=80'},
     { name: 'Ethiopian Pour Over',   desc: 'Single origin Yirgacheffe. Bright & floral with notes of jasmine and bergamot.',      price: '$6.50', badge: 'Single Origin',  img: 'https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=600&q=75' },
     { name: 'Oat Milk Flat White',   desc: 'Silky, smooth and satisfying. Velvety microfoam meets a double ristretto.',           price: '$5.50', badge: 'Plant-Based',    img: 'https://images.unsplash.com/photo-1572442388796-11668a67e53d?w=600&q=75' },
     { name: 'Cinnamon Honey Latte',  desc: 'House espresso, steamed milk, raw honey & a dusting of Ceylon cinnamon.',             price: '$6.00', badge: 'Seasonal',       img: 'https://images.unsplash.com/photo-1534040385115-33dcb3acba5b?w=600&q=75' },
